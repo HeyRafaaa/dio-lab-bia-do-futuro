@@ -217,7 +217,7 @@ flowchart TD
 | Motor de Risco         | Verifica se novos gastos podem comprometer obrigações futuras                   |
 | Motor de Poupança      | Identifica oportunidades para o usuário guardar pequenas quantias               |
 | Motor de Rentabilidade | Calcula e apresenta rendimentos da reserva com base nos dados disponíveis       |
-| Base de Conhecimento   | Regras de educação financeira, orçamento, poupança e reserva                    |
+| Base de Conhecimento   | Regras de educação financeira, orçamento, poupança e reserva, mostrados na pasta 'data'                  |
 | Validação              | Verifica consistência dos dados e cálculos                                      |
 | Banco de Dados         | Armazena perfil, transações, orçamento, objetivos e histórico da reserva        |
 
